@@ -11,11 +11,11 @@
 
 * 🏎️ F1 addict , avid Quora reader📖 
 
-* 📷Photography freak
+* 📷 Photography freak
 
 * 🏍️ long rides 
 
-* CSE '21 🎓
+* 🎓 CSE '21 🎓
 
 
 
