@@ -9,12 +9,6 @@
 
 * 💻 One line of code at a time
 
-* 🏎️ F1 addict , avid Quora reader📖 
-
-* 📷 Photography freak
-
-* 🏍️ long rides 
-
 * 🎓 CSE '21 🎓
 
 
