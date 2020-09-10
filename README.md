@@ -3,7 +3,7 @@
 # I'm an extremely passionate Mobile Application Developer
 
 ## About Me 😁
-* 📱 Android App Developer / Flutter Developer / Student
+* 📱 Android App Developer(Native) / Flutter Developer(Cross-Platform) / Student
 
 * ✨ UI / UX Enthusiast
 
@@ -11,6 +11,7 @@
 
 * 🎓 CSE '21 🎓
 
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=lokesh2021&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 
 ## Reach me via 👇🏻
