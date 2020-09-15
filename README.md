@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh B M</h1>
-<h3 align="center">Highly organized and detail-oriented 3rd year engineering student who is a Self-taught Android App developer (Native), Flutter developer (Hybrid), UI | UX Designer and knows Data science.</h3>
+<h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows Data science.</h3>
 
 - 🔭 I’m currently working on **A News App**
 
