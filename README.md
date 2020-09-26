@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **News App**
 
-- 🌱 I’m currently learning **Flutter** as well as **DSA**
+- 🌱 I’m currently learning **Flutter** as well as **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
