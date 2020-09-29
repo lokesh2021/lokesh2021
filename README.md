@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lokesh B M</h1>
 <h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows Data science.</h3>
 
-- 🔭 I’m currently working on a **News App**
+- 🔭 I’m currently working on an **AI News App**
 
 - 🌱 I’m currently learning **Flutter** as well as **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
+- 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
 - 💬 Ask me about **Java, Kotlin, Dart, Android, Flutter,Data Structures and Algorithms**
 
