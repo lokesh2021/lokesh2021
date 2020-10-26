@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Kotlin, Dart, Android, Flutter,Data Structures and Algorithms**
 
-- 📫 Reach me at **lokeshbandi2021@gmail.com**
+- 📫 Feel free to reach me at **lokeshbandi2021@gmail.com**
 
 - ⚡ Fun fact **I'm a big F1 Fan who likes to meet like minded people**
 
