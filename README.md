@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my short Venture based on **AI Short News App** which is available at [PlayStore](https://play.google.com/store/apps/details?id=com.newsio.ainews)
 
-- 🌱 While doing the above work I'm also learning **Flutter Development** as well as **Data Structures and Algorithms**
+- 🌱 While doing the above work I'm also learning **Flutter** as well as **Data Structures and Algorithms**
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
