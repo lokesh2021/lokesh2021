@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
-- 💬 Ask me about **Java, Kotlin, Dart, Android, Flutter,Data Structures and Algorithms**
+- 💬 Ask me about **Kotlin, Dart, Java, Android, Flutter,Data Structures and Algorithms**
 
 - 📫 Feel free to reach me at **lokeshbandi2021@gmail.com**
 
