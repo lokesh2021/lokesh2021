@@ -18,7 +18,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lokesh2021&count_private=true&show_icons=true&hide=issues)
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/lokeshbm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lokeshbm" height="30" width="30" /></a>
 <a href="https://instagram.com/the_f1_addict" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_f1_addict" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lokesh_bm" height="30" width="30" /></a>
