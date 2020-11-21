@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Lokesh B M</h1> 
-<p align="right">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Lokesh B M <p align="right">
 <a href="https://linkedin.com/in/lokeshbm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lokeshbm" height="30" width="30" /></a>
 <a href="https://instagram.com/the_f1_addict" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_f1_addict" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lokesh_bm" height="30" width="30" /></a>
   <a href="https://www.codechef.com/users/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="lokesh_bm" height="30" width="30" /></a>
-</p>
+</p></h1> 
+
 <h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows Data science.</h3>
 
 - 🔭 I’m currently working on a Mobile Application based on **AI Short News App** which is available at [PlayStore](https://play.google.com/store/apps/details?id=com.newsio.ainews)
