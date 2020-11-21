@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh B M</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lokesh B M</h1>
 <h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows Data science.</h3>
 
 - 🔭 I’m currently working on a Mobile Application based on **AI Short News App** which is available at [PlayStore](https://play.google.com/store/apps/details?id=com.newsio.ainews)
