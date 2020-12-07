@@ -7,7 +7,7 @@
 
 </p></h1> 
 
-<h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a 3 ⭐ coder @ CodeChef, a Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows Data science.</h3>
+<h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a 3⭐ coder @ CodeChef,\n a Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows Data science.</h3>
 
 - 🔭 I’m currently working on a Mobile Application based on **AI Short News App** which is available at [PlayStore](https://play.google.com/store/apps/details?id=com.newsio.ainews)
 
