@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Lokesh B M <p align="right">
+<h1 align="center">Hi, I'm Lokesh B M <p align="right">
   <a href="https://www.codechef.com/users/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="lokesh_bm" height="30" width="30" /></a>
   <a href="https://www.hackerrank.com/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lokesh_bm" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lokeshbm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lokeshbm" height="30" width="30" /></a>
