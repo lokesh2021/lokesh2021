@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a Mobile Application based on **AI Short News App** which is available at [PlayStore](https://play.google.com/store/apps/details?id=com.newsio.ainews)
 
-- 💻 AT present im learning lot of things which ranges from Native Android App Development, Flutter Framework to MERN Stack. Wish me Luck
+- 💻 At present i'm learning lot of things which ranges from Native Android App Development, Flutter Framework to MERN Stack. Wish me Luck
 
 - 🌱 While doing the above work, I'm simultaneously getting comfortable with **Data Structures and Algorithms** concepts
 
