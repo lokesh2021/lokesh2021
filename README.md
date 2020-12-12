@@ -13,7 +13,7 @@
 
 - 💻 At present i'm learning lot of things which ranges from Native Android App Development, Flutter Framework to MERN Stack. Wish me Luck
 
-- 🌱 While doing the above work, I'm simultaneously getting comfortable with **Data Structures and Algorithms** concepts
+- 🌱 While doing the above things, I'm simultaneously getting comfortable with **Data Structures and Algorithms** concepts
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
