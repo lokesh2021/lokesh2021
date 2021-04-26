@@ -7,13 +7,9 @@
 
 </p></h1> 
 
-<h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a Competitive Coder,<br />A Self-taught Android App Developer (Native), Flutter Developer (Hybrid), UI | UX Designer and knows basics of Data science.</h3>
+<h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a ,<br />A Self-taught Application Developer, UI | UX Designer and knows basics of Data science.</h3>
 
-- 🔭 I’m currently working on a Mobile Application based on **AI Short News App** which is available at [PlayStore](https://play.google.com/store/apps/details?id=com.newsio.ainews)
-
-- 💻 At present i'm learning technologies ranging from Native Android App Development, Flutter Framework & Angular Framework . Wish me Luck
-
-- 🌱 While doing the above things, I'm simultaneously getting comfortable with **Data Structure and Algorithmic** concepts
+- 🌱  Getting comfortable with **Data Structures and Algorithmic**
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
