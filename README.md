@@ -9,7 +9,7 @@
 
 <h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a ,<br />A Self-taught Application Developer, UI | UX Designer and knows basics of Data science.</h3>
 
-- 🌱  Getting comfortable with **Data Structures and Algorithmic**
+- 🌱 At the moment im getting comfortable with **Data Structures and Algorithmic**
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
