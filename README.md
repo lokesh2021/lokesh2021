@@ -9,11 +9,11 @@
 
 <h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a ,<br />A Self-taught Application Developer, UI | UX Designer and knows basics of Data science.</h3>
 
-- 🌱 At the moment im getting comfortable with **Data Structures and Algorithmic**
+- 🌱 At the moment im getting comfortable with **Data Structures and Algorithmic**, feel free to give me challenging problems so that i can brush up my problem solving skills.
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
 - 💬 Ask me about **Kotlin, Dart, Java, Android, Flutter,Data Structures and Algorithms**
 
-- 📫 Feel free to reach me at **lokeshbandi2021@gmail.com**
+- 📫 If you wanna have a chat, send a mail @ **lokeshbandi2021@gmail.com**
 
