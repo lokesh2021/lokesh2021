@@ -15,5 +15,5 @@
 
 - 💬 Ask me about **Kotlin, Dart, Java, Android, Flutter,Data Structures and Algorithms**
 
-- 📫 If you wanna have a chat, send a mail @ **lokeshbandi2021@gmail.com**
+- 📫 If you wanna have a chat, send a mail @**lokeshbandi2021@gmail.com**
 
