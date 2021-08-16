@@ -7,9 +7,9 @@
 
 </p></h1> 
 
-<h3 align="center">Highly organized and detail-oriented Final Year Engineering student who is a ,<br />A Self-taught Application Developer, UI | UX Designer and knows basics of Data science.</h3>
+<h3 align="center">Highly organized and detail-oriented CSE Graduate who is a Product Engineer @Brillio learning Full Stack Development using Java and React, a Competitive coder, a Self-taught Android App developer, Flutter developer and UI Designer</h3>
 
-- 🌱 At the moment im getting comfortable with **Data Structures and Algorithmic**, feel free to give me challenging problems so that i can brush up my problem solving skills.
+- 🌱 At the moment im getting comfortable with **Data Structures and Algorithms**, feel free to give me challenging problems so that i can brush up my problem solving skills.
 
 - 👨‍💻 My Personal Portfolio is available at [https://lokesh2021.github.io/](https://lokesh2021.github.io/)
 
