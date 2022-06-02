@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lokesh B M <p align="right">
+<!-- <h1 align="center">Hi, I'm Lokesh B M <p align="right">
   <a href="https://www.codechef.com/users/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="lokesh_bm" height="30" width="30" /></a>
   <a href="https://www.hackerrank.com/lokesh_bm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lokesh_bm" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lokeshbm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lokeshbm" height="30" width="30" /></a>
@@ -15,5 +15,5 @@
 
 - 💬 Ask me about **Kotlin, Dart, Java, Android, Flutter,Data Structures and Algorithms**
 
-- 📫 If you wanna have a chat, send a mail @**lokeshbm2021@gmail.com**
+- 📫 If you wanna have a chat, send a mail @**lokeshbm2021@gmail.com** -->
 
