@@ -10,11 +10,6 @@
 <a href="https://linkedin.com/in/lokeshbm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:lokeshbm2021@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://lokesh.fyi/resume.pdf"><img src="https://img.shields.io/badge/Resume-16a34a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=lokesh2021&style=flat-square&color=3B82F6" alt="Profile views"/>
-
 </div>
 
 <br/>
